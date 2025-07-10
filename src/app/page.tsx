@@ -10,7 +10,8 @@ export default function States(){
   const [value , setvalue] = useState(0)
 
   function reset(){
-    setvalue(0)
+    setvalue(0git commit -m "Initial commit"
+)
   }
 
   function increment(){
